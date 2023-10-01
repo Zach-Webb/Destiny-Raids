@@ -1,0 +1,13 @@
+*{
+    color: white;
+  }
+body{
+    background-image: url("https://dotesports.com/wp-content/uploads/2021/07/15132456/Vault_of_Glass_Post_Raid_Launch_Compressed_011.jpg");
+    background-size: cover;
+}
+h2{
+    text-align:left;
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    
+   }

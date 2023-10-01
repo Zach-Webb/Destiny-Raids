@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Destiny",
+			"path": "."
+		},
+		{
+			"name": "cssstuff",
+			"path": "../../Intro to CS/cssstuff"
+		},
+		{
+			"path": "../First Project"
+		}
+	],
+	"settings": {}
+}
